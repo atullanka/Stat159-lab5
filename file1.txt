@@ -1,12 +1,27 @@
 This is file 1
 This is a new line
+Task3: userA update
 <<<<<<< HEAD
 Task 3's update on master branch 
 =======
 
 Task3
+<<<<<<< HEAD
+
+UserB 
+
+lets do it again.
+
+
+
+
+
+
+i am userA now.
+=======
 UserB 
 >>>>>>> 00daf71512541d57eec5a8349890e4b6d6703d0d
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 Modifed user c
@@ -25,3 +40,6 @@ User C modified2
 
 Task5:
 user c modified
+=======
+>>>>>>> 3ffb84a764b572a308b2c5a42303462118b6c016
+>>>>>>> 5d2d45f0d5284bdd2a57f434368207745fe128be
