@@ -22,3 +22,6 @@ User C modified
 Task4:
 User C modified2
 >>>>>>> 56967f226a6ee0d134dc12d9f1a5969f851d0624
+
+Task5:
+user c modified
