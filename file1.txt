@@ -8,6 +8,7 @@ Task3
 UserB 
 >>>>>>> 00daf71512541d57eec5a8349890e4b6d6703d0d
 <<<<<<< HEAD
+<<<<<<< HEAD
 Modifed user c
 =======
 
@@ -15,3 +16,9 @@ Modifed user c
 Task4:
 User C modified
 >>>>>>> task4A
+=======
+
+
+Task4:
+User C modified
+>>>>>>> 56967f226a6ee0d134dc12d9f1a5969f851d0624
