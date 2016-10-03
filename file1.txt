@@ -7,4 +7,11 @@ Task 3's update on master branch
 Task3
 UserB 
 >>>>>>> 00daf71512541d57eec5a8349890e4b6d6703d0d
+<<<<<<< HEAD
 Modifed user c
+=======
+
+
+Task4:
+User C modified
+>>>>>>> task4A
