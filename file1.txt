@@ -1,5 +1,6 @@
 This is file 1
 This is a new line
+Task3: userA update
 <<<<<<< HEAD
 Task 3's update on master branch 
 =======
