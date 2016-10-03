@@ -8,3 +8,4 @@ Task 3's update on master branch
 Task3
 UserB 
 >>>>>>> 00daf71512541d57eec5a8349890e4b6d6703d0d
+Task 4: User B's update
