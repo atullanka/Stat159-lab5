@@ -42,4 +42,15 @@ Task5:
 user c modified
 =======
 >>>>>>> 3ffb84a764b572a308b2c5a42303462118b6c016
+<<<<<<< HEAD
 >>>>>>> 5d2d45f0d5284bdd2a57f434368207745fe128be
+=======
+
+
+
+
+Task 5:
+I am userA
+
+do it again
+>>>>>>> 0333215977b2d9b2aa58b67bef7e071a19d5a51b
